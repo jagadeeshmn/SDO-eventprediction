@@ -9,4 +9,4 @@ N = 10
 
 X,Y = Load_data(start_time,end_time,N)
 print(Y)
-Perform_Logistic_Regression(X,Y)
+# Perform_Logistic_Regression(X,Y)
